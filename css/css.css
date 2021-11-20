@@ -1,0 +1,111 @@
+
+body{
+    background-image: url(../img/black-wall-texture-rough-background-260nw-1450341161.jpg);
+    background-size: cover;
+}
+.container{
+    padding:0px;
+    margin:50px;
+     
+}
+.jop {
+
+background-color: rgba(0 , 0, 0, 0.50);
+width: 60%;
+align-items: center;
+background-color: rgba(0 , 0, 0, 0.50);
+margin: 0px 0px 0 23%;
+}
+
+
+
+
+
+.title h1{
+    font-weight: bold;
+    font-size: 35px;
+    color: white;
+    margin-top: -11px;
+    text-align: center;}
+
+
+.title h6{
+    color: #39b54a !important;
+    text-align: center;
+}
+.jop .left{
+ width: 60%;
+float: left;
+background-color: 161616;
+margin-left: 10px;
+}
+.jop .left h5{
+    color: white;
+}
+.jop .left input{
+    display:block;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin: 30px 0;
+    width: 90%;
+    
+     background-color: rgba(0 , 0, 0, -1); 
+}
+
+.jop .left button{
+ background-color:#39b54a;
+ height: 30px;
+ width: 90%;
+ border:none;
+ margin: 30px 0;
+
+}
+.jop .left textarea{
+    background-color: rgba(0 , 0, 0, -1); 
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin: 0 20px;
+}
+.jop .right{
+
+    float:right;
+    width: 36%;
+    background-color:black;
+    color:white;
+    
+    }
+    .jop .right h6{
+        margin-left: 30px  ;
+      
+    }
+
+.jop .deve{
+    color: rgb(131, 131, 131);
+    width: 56%;
+    height: 115px;
+    margin: 0 0 0px 29px;
+    position: relative;
+}
+
+ .jop .deve .content{
+    padding: 0 38px;
+} 
+
+.jop .deve h5{
+    color: #39b54a;
+}
+.jop .icon{
+    text-align: center;
+    margin:38px 0;
+   
+}
+.jop .icon a i{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.clr{
+    clear: both;
+}
